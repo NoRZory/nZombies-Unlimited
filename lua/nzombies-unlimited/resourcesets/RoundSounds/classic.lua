@@ -1,11 +1,12 @@
 {
-	"Name":"Classic",
+	"Name":"Custom",
 	"Set":{
 		"Start":[
-			"nzu/round/round_start.mp3"
+			"BLOOD OF THE DEAD ROUND CHANGE...! Call of Duty Black Ops 4 Zombies.mp4"
+	
 		],
 		"GameOver":[
-			"nzu/round/game_over_5.mp3"
+			"videoplayback.mp4"
 		],
 		"End":[
 			"nzu/round/round_end.mp3"
